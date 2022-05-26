@@ -1,9 +1,7 @@
 Effective Pandas Notes
 ==============================
 
-<p align="center">
 <img src="reports/book_cover.jpg" width=300 />
-</p>
   
 The cover of the book ['Effective Pandas'](https://store.metasnake.com/effective-pandas-book) by [Matt Harrison](https://github.com/mattharrison)
 
