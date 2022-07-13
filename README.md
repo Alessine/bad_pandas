@@ -1,7 +1,7 @@
 Bad Pandas - Blog Post
 ==============================
 
-<img src="reports/img/billow926-pandas.jpg" width=500 />
+<img src="reports/img/billow926-pandas.jpg" width=800 />
   
 Not the kind of pandas you'd want - Photo by [billow926](https://unsplash.com/@billow926) on Unsplash
 
